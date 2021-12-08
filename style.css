@@ -64,12 +64,14 @@ header > h1 {
 }
 
 header > p {
+    font-family: var(--fonte-padrao) ;
     color: white;
     font-size: 1.2em;
     max-width: 900px;
     padding-left: 10px;
     padding-right: 10px;
     margin: auto;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 10px var(--cor0);
 }
 
